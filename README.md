@@ -20,14 +20,14 @@ PC: 4000
 ## Actividad 3: Columna de 5 píxeles consecutivos
 Los píxeles deben formar un dibujito en vertical, en la misma columna.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 FC C0 3E 08 32 FC C8 3E 80 32 FC D0 3E 08 32 FC D8 3E 88 32 FC E0 18 FE
 ```
 PC: 4000
 
 ## Actividad 4: Minidibujo en 3 columnas
 Mínimo 4 filas de altura y 3 columnas distintas.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 C9 C0 3E 08 32 C9 C8 3E 80 32 C9 D0 3E 08 32 C9 D8 3E 88 32 C9 E0 3E 88 32 CB C0 3E 08 32 CB C8 3E 80 32 CB D0 3E 08 32 CB D8 3E 88 32 CB E0 3E 88 32 CD C0 3E 08 32 CD C8 3E 80 32 CD D0 3E 08 32 CD D8 3E 88 32 CD E0 18 FE
 ```
 PC: 4000
 
